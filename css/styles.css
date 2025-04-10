@@ -11042,6 +11042,6 @@ footer.bg-dark {
 
 @media (max-width: 576px) {
   .form-floating > label {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
 }

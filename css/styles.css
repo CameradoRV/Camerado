@@ -11039,3 +11039,9 @@ footer.bg-dark {
   overflow-wrap: break-word;
   word-wrap: break-word;
 }
+
+@media (max-width: 576px) {
+  .form-floating > label {
+    font-size: 0.8rem;
+  }
+}

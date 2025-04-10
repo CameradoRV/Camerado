@@ -11033,3 +11033,9 @@ footer.bg-dark {
   padding-right: 0rem !important;
   padding-left: 0rem !important;
 }
+
+.form-floating > label {
+  white-space: normal;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
